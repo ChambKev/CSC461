@@ -1,0 +1,90 @@
+
+1) Add data
+2) Display data
+3) Remove class
+4) Load XML
+5) Write XML
+6) Find feature
+7) Calculate species
+0) Quit
+Choice:> [34;1m4[0m
+ file name:> [34;1mfullClean.xml[0m
+ 
+1) Add data
+2) Display data
+3) Remove class
+4) Load XML
+5) Write XML
+6) Find feature
+7) Calculate species
+0) Quit
+Choice:> [34;1m7[0m
+ what class:> [34;1maves[0m
+ count: 391
+1) Add data
+2) Display data
+3) Remove class
+4) Load XML
+5) Write XML
+6) Find feature
+7) Calculate species
+0) Quit
+Choice:> [34;1m7[0m
+ what class:> [34;1mmammalia[0m
+ count: 105
+1) Add data
+2) Display data
+3) Remove class
+4) Load XML
+5) Write XML
+6) Find feature
+7) Calculate species
+0) Quit
+Choice:> [34;1m7[0m
+ what class:> [34;1mChondrichthyes[0m
+ count: 9
+1) Add data
+2) Display data
+3) Remove class
+4) Load XML
+5) Write XML
+6) Find feature
+7) Calculate species
+0) Quit
+Choice:> [34;1m1[0m
+ what class:> [34;1maves[0m
+ what order:> [34;1mPasseriformes[0m
+added order
+continue (y/n):> [34;1my[0m
+ what family:> [34;1mTurdidae[0m
+added family
+continue (y/n):> [34;1my[0m
+ add feature (y/n):> [34;1mn[0m
+ add summary (y/n):> [34;1my[0m
+ update genus count (0):> [34;1m21[0m
+ update species count (0):> [34;1m171[0m
+ add example (y/n):> [34;1my[0m
+ what example:> [34;1mblue bird[0m
+ add example (y/n):> [34;1mn[0m
+ 
+1) Add data
+2) Display data
+3) Remove class
+4) Load XML
+5) Write XML
+6) Find feature
+7) Calculate species
+0) Quit
+Choice:> [34;1m7[0m
+ what class:> [34;1maves[0m
+ count: 562
+1) Add data
+2) Display data
+3) Remove class
+4) Load XML
+5) Write XML
+6) Find feature
+7) Calculate species
+0) Quit
+Choice:> [34;1m0[0m
+ 

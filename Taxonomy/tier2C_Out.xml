@@ -1,0 +1,64 @@
+<taxonomy>
+  <class name="aves">
+    <feature>feathers</feature>
+    <feature>beak</feature>
+    <order name="galliforme">
+      <feature>chicken-like</feature>
+      <feature>ground feeder</feature>
+      <family name="phasianidae">
+        <feature>terrestrial</feature>
+        <summary species="150" genus="12">Turkeys, Chickens, Quails</summary>
+      </family>
+    </order>
+    <order name="Falconiformes">
+      <feature>diurnal</feature>
+      <feature>carnivore</feature>
+      <family name="Apterygidae">
+        <feature>small</feature>
+        <summary species="233" genus="67">Eagle, Hawk, Kites</summary>
+      </family>
+    </order>
+    <order name="Struthioniformes">
+      <feature>flightless</feature>
+      <feature>omnivore</feature>
+      <feature>three-toed</feature>
+      <family name="Apterygidae">
+        <feature>small</feature>
+        <summary species="5" genus="1">Kiwi</summary>
+      </family>
+      <family name="Dromaiidae">
+        <feature>tail-less</feature>
+        <summary species="1" genus="1">Emu</summary>
+      </family>
+      <family name="Struthionidae">
+        <feature>large</feature>
+        <summary species="2" genus="1">Ostrich</summary>
+      </family>
+    </order>
+  </class>
+  <class name="mammalia">
+    <feature>fur</feature>
+    <order name="Carnivora">
+      <feature>carnivore</feature>
+      <family name="Canidae">
+        <feature>Fangs</feature>
+        <feature>Tail</feature>
+        <summary species="37" genus="12">Dog, Wolf, Coyote</summary>
+      </family>
+      <family name="felidae">
+        <feature>Fangs</feature>
+        <feature>retractable claws</feature>
+        <feature>Tail</feature>
+        <summary species="36" genus="18">Lion, tiger, domestic cat</summary>
+      </family>
+    </order>
+    <order name="Cetacea">
+      <feature>aquatic</feature>
+      <family name="Delphinidae">
+        <feature>echolocation</feature>
+        <feature>beak</feature>
+        <summary species="32" genus="17">dolphins, porpoises, and whales</summary>
+      </family>
+    </order>
+  </class>
+</taxonomy>

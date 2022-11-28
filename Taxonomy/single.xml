@@ -1,0 +1,12 @@
+<taxonomy>
+  <class name="mammal">
+    <feature>Fur</feature>
+    <order name="Carnivora">
+      <feature>carnivore</feature>
+      <family name="Canidae">
+        <feature>Fangs</feature>
+        <description species="37" genus="12">Dog, Wolf, Coyote</description>
+      </family>
+    </order>
+  </class>
+</taxonomy>

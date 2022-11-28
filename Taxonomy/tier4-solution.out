@@ -1,0 +1,205 @@
+
+1) Add data
+2) Display data
+3) Remove class
+4) Load XML
+5) Write XML
+6) Find feature
+7) Calculate species
+0) Quit
+Choice:> File name:> 
+1) Add data
+2) Display data
+3) Remove class
+4) Load XML
+5) Write XML
+6) Find feature
+7) Calculate species
+0) Quit
+Choice:> Feature:> Class: mammalia 
+Feature: Fur
+--Order: Carnivora 
+--Feature: carnivore
+----Family: Canidae 
+----Feature: Fangs, Tail
+------Genus: 12  Species: 37  Examples: Dog, Wolf, Coyote
+----Family: felidae 
+----Feature: Fangs, retractable claws, Tail
+------Genus: 18  Species: 36  Examples: Lion, tiger, domestic cat
+--Order: Cetacea 
+--Feature: aquatic
+----Family: Delphinidae 
+----Feature: echolocation, beak
+------Genus: 17  Species: 32  Examples: dolphins, porpoises, and whales
+
+1) Add data
+2) Display data
+3) Remove class
+4) Load XML
+5) Write XML
+6) Find feature
+7) Calculate species
+0) Quit
+Choice:> Feature:> Order: Carnivora 
+Feature: carnivore
+--Family: Canidae 
+--Feature: Fangs, Tail
+----Genus: 12  Species: 37  Examples: Dog, Wolf, Coyote
+--Family: felidae 
+--Feature: Fangs, retractable claws, Tail
+----Genus: 18  Species: 36  Examples: Lion, tiger, domestic cat
+
+1) Add data
+2) Display data
+3) Remove class
+4) Load XML
+5) Write XML
+6) Find feature
+7) Calculate species
+0) Quit
+Choice:> Feature:> Family: Canidae 
+Feature: Fangs, Tail
+--Genus: 12  Species: 37  Examples: Dog, Wolf, Coyote
+
+1) Add data
+2) Display data
+3) Remove class
+4) Load XML
+5) Write XML
+6) Find feature
+7) Calculate species
+0) Quit
+Choice:> Feature:> Order: Cetacea 
+Feature: aquatic
+--Family: Delphinidae 
+--Feature: echolocation, beak
+----Genus: 17  Species: 32  Examples: dolphins, porpoises, and whales
+
+1) Add data
+2) Display data
+3) Remove class
+4) Load XML
+5) Write XML
+6) Find feature
+7) Calculate species
+0) Quit
+Choice:> Feature:> Order: galliforme 
+Feature: chicken-like, ground feeder
+--Family: phasianidae 
+--Feature: terrestrial
+----Genus: 12  Species: 150  Examples: Turkeys, Chickens, Quails
+
+1) Add data
+2) Display data
+3) Remove class
+4) Load XML
+5) Write XML
+6) Find feature
+7) Calculate species
+0) Quit
+Choice:> Feature:> Family: Sphyrnidae 
+Feature: broad head
+--Genus: 2  Species: 9  Examples: hammerhead shark
+
+1) Add data
+2) Display data
+3) Remove class
+4) Load XML
+5) Write XML
+6) Find feature
+7) Calculate species
+0) Quit
+Choice:> Feature:> xyz not found
+
+1) Add data
+2) Display data
+3) Remove class
+4) Load XML
+5) Write XML
+6) Find feature
+7) Calculate species
+0) Quit
+Choice:> What class:> What order:> Added order
+Continue (y/n):> What family:> Added family
+Continue (y/n):> Add feature (y/n):> What feature:> Add feature (y/n):> Add summary (y/n):> 
+1) Add data
+2) Display data
+3) Remove class
+4) Load XML
+5) Write XML
+6) Find feature
+7) Calculate species
+0) Quit
+Choice:> 
+Class: mammalia 
+Feature: Fur
+--Order: Carnivora 
+--Feature: carnivore
+----Family: Canidae 
+----Feature: Fangs, Tail
+------Genus: 12  Species: 37  Examples: Dog, Wolf, Coyote
+----Family: felidae 
+----Feature: Fangs, retractable claws, Tail
+------Genus: 18  Species: 36  Examples: Lion, tiger, domestic cat
+--Order: Cetacea 
+--Feature: aquatic
+----Family: Delphinidae 
+----Feature: echolocation, beak
+------Genus: 17  Species: 32  Examples: dolphins, porpoises, and whales
+Class: aves 
+Feature: Feathers, beak
+--Order: galliforme 
+--Feature: chicken-like, ground feeder
+----Family: phasianidae 
+----Feature: terrestrial
+------Genus: 12  Species: 150  Examples: Turkeys, Chickens, Quails
+--Order: Falconiformes 
+--Feature: diurnal, carnivore
+----Family: Apterygidae 
+----Feature: small
+------Genus: 67  Species: 233  Examples: Eagle, Hawk, Kites
+--Order: Struthioniformes 
+--Feature: flightless, omnivore, three-toed
+----Family: Apterygidae 
+----Feature: small
+------Genus: 1  Species: 5  Examples: Kiwi
+----Family: Dromaiidae 
+----Feature: tail-less
+------Genus: 1  Species: 1  Examples: Emu
+----Family: Struthionidae 
+----Feature: large
+------Genus: 1  Species: 2  Examples: Ostrich
+--Order: Passeriformes 
+--Feature: 
+----Family: Turdidae 
+----Feature: sings
+------Genus: 0  Species: 0  Examples: 
+Class: Chondrichthyes 
+Feature: aquatic, cartilage skeleton, gills
+--Order: Carcharhiniformes 
+--Feature: dorsal fim
+----Family: Sphyrnidae 
+----Feature: broad head
+------Genus: 2  Species: 9  Examples: hammerhead shark
+
+1) Add data
+2) Display data
+3) Remove class
+4) Load XML
+5) Write XML
+6) Find feature
+7) Calculate species
+0) Quit
+Choice:> Feature:> Family: Turdidae 
+Feature: sings
+--Genus: 0  Species: 0  Examples: 
+
+1) Add data
+2) Display data
+3) Remove class
+4) Load XML
+5) Write XML
+6) Find feature
+7) Calculate species
+0) Quit
+Choice:> 

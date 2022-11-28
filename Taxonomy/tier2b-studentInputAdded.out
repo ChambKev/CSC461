@@ -1,0 +1,129 @@
+
+1) Add data
+2) Display data
+3) Remove class
+4) Load XML
+5) Write XML
+6) Find feature
+7) Calculate species
+0) Quit
+Choice:> [34;1m1[0m
+ what class:> [34;1mmammalia[0m
+ added class
+continue (y/n):> [34;1my[0m
+ what order:> [34;1mCarnivora[0m
+added order
+continue (y/n):> [34;1my[0m
+ what family:> [34;1mcanidae[0m
+added family
+continue (y/n):> [34;1mY[0m
+ add feature (y/n):> [34;1my[0m
+ what feature:> [34;1mtail[0m
+ add feature (y/n):> [34;1my[0m
+ what feature:> [34;1mfangs[0m
+ add feature (y/n):> [34;1my[0m
+ what feature:> [34;1mfur[0m
+ add feature (y/n):> [34;1mn[0m
+ add summary (y/n):> [34;1my[0m
+ update genus count (0):> [34;1m12[0m
+ update species count (0):> [34;1m27[0m
+ add example (y/n):> [34;1my[0m
+ what example:> [34;1mdog[0m
+ add example (y/n):> [34;1my[0m
+ what example:> [34;1mwolf[0m
+ add example (y/n):> [34;1my[0m
+ what example:> [34;1mcoyote[0m
+ add example (y/n):> [34;1mn[0m
+ 
+1) Add data
+2) Display data
+3) Remove class
+4) Load XML
+5) Write XML
+6) Find feature
+7) Calculate species
+0) Quit
+Choice:> [34;1m2[0m
+ class: mammalia
+feature: 
+--order: carnivora
+--feature: 
+----family: canidae
+----feature: tail, fangs, fur
+------genus: 12  species: 27  examples: dog, wolf, coyote
+
+
+1) Add data
+2) Display data
+3) Remove class
+4) Load XML
+5) Write XML
+6) Find feature
+7) Calculate species
+0) Quit
+Choice:> [34;1m1[0m
+ what class:> [34;1maves[0m
+ added class
+continue (y/n):> [34;1my[0m
+ what order:> [34;1mgalliforme[0m
+added order
+continue (y/n):> [34;1my[0m
+ what family:> [34;1mphasianidae[0m
+added family
+continue (y/n):> [34;1my[0m
+ add feature (y/n):> [34;1my[0m
+ what feature:> [34;1mfeathers[0m
+ add feature (y/n):> [34;1mn[0m
+ add summary (y/n):> [34;1my[0m
+ update genus count (0):> [34;1m12[0m
+ update species count (0):> [34;1m150[0m
+ add example (y/n):> [34;1my[0m
+ what example:> [34;1mchicken[0m
+ add example (y/n):> [34;1mn[0m
+ 
+1) Add data
+2) Display data
+3) Remove class
+4) Load XML
+5) Write XML
+6) Find feature
+7) Calculate species
+0) Quit
+Choice:> [34;1m2[0m
+ class: mammalia
+feature: 
+--order: carnivora
+--feature: 
+----family: canidae
+----feature: tail, fangs, fur
+------genus: 12  species: 27  examples: dog, wolf, coyote
+class: aves
+feature: 
+--order: galliforme
+--feature: 
+----family: phasianidae
+----feature: feathers
+------genus: 12  species: 150  examples: chicken
+
+
+1) Add data
+2) Display data
+3) Remove class
+4) Load XML
+5) Write XML
+6) Find feature
+7) Calculate species
+0) Quit
+Choice:> [34;1m5[0m
+ file name:> [34;1mtier2B_Out.xml[0m
+ 
+1) Add data
+2) Display data
+3) Remove class
+4) Load XML
+5) Write XML
+6) Find feature
+7) Calculate species
+0) Quit
+Choice:> [34;1m0[0m
+ 

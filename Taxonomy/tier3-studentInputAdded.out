@@ -1,0 +1,475 @@
+
+1) Add data
+2) Display data
+3) Remove class
+4) Load XML
+5) Write XML
+6) Find feature
+7) Calculate species
+0) Quit
+Choice:> [34;1m1[0m
+ what class:> [34;1mmammalia[0m
+ added class
+continue (y/n):> [34;1my[0m
+ what order:> [34;1mCarnivora[0m
+added order
+continue (y/n):> [34;1my[0m
+ what family:> [34;1mcanidae[0m
+added family
+continue (y/n):> [34;1mY[0m
+ add feature (y/n):> [34;1my[0m
+ what feature:> [34;1mtail[0m
+ add feature (y/n):> [34;1my[0m
+ what feature:> [34;1mfangs[0m
+ add feature (y/n):> [34;1my[0m
+ what feature:> [34;1mfur[0m
+ add feature (y/n):> [34;1mn[0m
+ add summary (y/n):> [34;1my[0m
+ update genus count (0):> [34;1m12[0m
+ update species count (0):> [34;1m27[0m
+ add example (y/n):> [34;1my[0m
+ what example:> [34;1mdog[0m
+ add example (y/n):> [34;1my[0m
+ what example:> [34;1mwolf[0m
+ add example (y/n):> [34;1my[0m
+ what example:> [34;1mcoyote[0m
+ add example (y/n):> [34;1mn[0m
+ 
+1) Add data
+2) Display data
+3) Remove class
+4) Load XML
+5) Write XML
+6) Find feature
+7) Calculate species
+0) Quit
+Choice:> [34;1m4[0m
+ file name:> [34;1maves.xml[0m
+ 
+1) Add data
+2) Display data
+3) Remove class
+4) Load XML
+5) Write XML
+6) Find feature
+7) Calculate species
+0) Quit
+Choice:> [34;1m2[0m
+ class: mammalia
+feature: 
+--order: carnivora
+--feature: 
+----family: canidae
+----feature: tail, fangs, fur
+------genus: 12  species: 27  examples: dog, wolf, coyote
+class: aves
+feature: feathers, beak
+--order: galliforme
+--feature: chicken-like, ground feeder
+----family: phasianidae
+----feature: terrestrial
+------genus: 12  species: 150  examples: Turkeys, Chickens, Quails
+--order: Falconiformes
+--feature: diurnal, carnivore
+----family: Apterygidae
+----feature: small
+------genus: 67  species: 233  examples: Eagle, Hawk, Kites
+--order: Struthioniformes
+--feature: flightless, omnivore, three-toed
+----family: Apterygidae
+----feature: small
+------genus: 1  species: 5  examples: Kiwi
+----family: Dromaiidae
+----feature: tail-less
+------genus: 1  species: 1  examples: Emu
+----family: Struthionidae
+----feature: large
+------genus: 1  species: 2  examples: Ostrich
+
+
+1) Add data
+2) Display data
+3) Remove class
+4) Load XML
+5) Write XML
+6) Find feature
+7) Calculate species
+0) Quit
+Choice:> [34;1m1[0m
+ what class:> [34;1maves[0m
+ what order:> [34;1mgalliforme[0m
+what family:> [34;1mphasianidae[0m
+add feature (y/n):> [34;1mn[0m
+ add summary (y/n):> [34;1my[0m
+ update genus count (12):> [34;1m12[0m
+ update species count (150):> [34;1m151[0m
+ add example (y/n):> [34;1my[0m
+ what example:> [34;1mpheasant[0m
+ add example (y/n):> [34;1mn[0m
+ 
+1) Add data
+2) Display data
+3) Remove class
+4) Load XML
+5) Write XML
+6) Find feature
+7) Calculate species
+0) Quit
+Choice:> [34;1m1[0m
+ what class:> [34;1maves[0m
+ what order:> [34;1mPasseriformes[0m
+added order
+continue (y/n):> [34;1my[0m
+ what family:> [34;1mTurdidae[0m
+added family
+continue (y/n):> [34;1my[0m
+ add feature (y/n):> [34;1my[0m
+ what feature:> [34;1momnivore[0m
+ add feature (y/n):> [34;1mn[0m
+ add summary (y/n):> [34;1my[0m
+ update genus count (0):> [34;1m21[0m
+ update species count (0):> [34;1m171[0m
+ add example (y/n):> [34;1my[0m
+ what example:> [34;1mblue bird[0m
+ add example (y/n):> [34;1mn[0m
+ 
+1) Add data
+2) Display data
+3) Remove class
+4) Load XML
+5) Write XML
+6) Find feature
+7) Calculate species
+0) Quit
+Choice:> [34;1m2[0m
+ class: mammalia
+feature: 
+--order: carnivora
+--feature: 
+----family: canidae
+----feature: tail, fangs, fur
+------genus: 12  species: 27  examples: dog, wolf, coyote
+class: aves
+feature: feathers, beak
+--order: galliforme
+--feature: chicken-like, ground feeder
+----family: phasianidae
+----feature: terrestrial
+------genus: 12  species: 151  examples: Turkeys, Chickens, Quails, pheasant
+--order: Falconiformes
+--feature: diurnal, carnivore
+----family: Apterygidae
+----feature: small
+------genus: 67  species: 233  examples: Eagle, Hawk, Kites
+--order: Struthioniformes
+--feature: flightless, omnivore, three-toed
+----family: Apterygidae
+----feature: small
+------genus: 1  species: 5  examples: Kiwi
+----family: Dromaiidae
+----feature: tail-less
+------genus: 1  species: 1  examples: Emu
+----family: Struthionidae
+----feature: large
+------genus: 1  species: 2  examples: Ostrich
+--order: passeriformes
+--feature: 
+----family: turdidae
+----feature: omnivore
+------genus: 21  species: 171  examples: blue bird
+
+
+1) Add data
+2) Display data
+3) Remove class
+4) Load XML
+5) Write XML
+6) Find feature
+7) Calculate species
+0) Quit
+Choice:> [34;1m3[0m
+ what class:> [34;1mmammalia[0m
+ removed mammalia
+1) Add data
+2) Display data
+3) Remove class
+4) Load XML
+5) Write XML
+6) Find feature
+7) Calculate species
+0) Quit
+Choice:> [34;1m2[0m
+ class: aves
+feature: feathers, beak
+--order: galliforme
+--feature: chicken-like, ground feeder
+----family: phasianidae
+----feature: terrestrial
+------genus: 12  species: 151  examples: Turkeys, Chickens, Quails, pheasant
+--order: Falconiformes
+--feature: diurnal, carnivore
+----family: Apterygidae
+----feature: small
+------genus: 67  species: 233  examples: Eagle, Hawk, Kites
+--order: Struthioniformes
+--feature: flightless, omnivore, three-toed
+----family: Apterygidae
+----feature: small
+------genus: 1  species: 5  examples: Kiwi
+----family: Dromaiidae
+----feature: tail-less
+------genus: 1  species: 1  examples: Emu
+----family: Struthionidae
+----feature: large
+------genus: 1  species: 2  examples: Ostrich
+--order: passeriformes
+--feature: 
+----family: turdidae
+----feature: omnivore
+------genus: 21  species: 171  examples: blue bird
+
+
+1) Add data
+2) Display data
+3) Remove class
+4) Load XML
+5) Write XML
+6) Find feature
+7) Calculate species
+0) Quit
+Choice:> [34;1m1[0m
+ what class:> [34;1mChondrichthyes[0m
+ added class
+continue (y/n):> [34;1my[0m
+ what order:> [34;1mCarcharhiniformes[0m
+added order
+continue (y/n):> [34;1my[0m
+ what family:> [34;1mSphyrnidae[0m
+added family
+continue (y/n):> [34;1mY[0m
+ add feature (y/n):> [34;1my[0m
+ what feature:> [34;1mdorsal fin[0m
+ add feature (y/n):> [34;1my[0m
+ what feature:> [34;1mgills[0m
+ add feature (y/n):> [34;1my[0m
+ what feature:> [34;1mcarnivore[0m
+ add feature (y/n):> [34;1mn[0m
+ add summary (y/n):> [34;1my[0m
+ update genus count (0):> [34;1m2[0m
+ update species count (0):> [34;1m9[0m
+ add example (y/n):> [34;1my[0m
+ what example:> [34;1mhammerhead shark[0m
+ add example (y/n):> [34;1mn[0m
+ 
+1) Add data
+2) Display data
+3) Remove class
+4) Load XML
+5) Write XML
+6) Find feature
+7) Calculate species
+0) Quit
+Choice:> [34;1m2[0m
+ class: aves
+feature: feathers, beak
+--order: galliforme
+--feature: chicken-like, ground feeder
+----family: phasianidae
+----feature: terrestrial
+------genus: 12  species: 151  examples: Turkeys, Chickens, Quails, pheasant
+--order: Falconiformes
+--feature: diurnal, carnivore
+----family: Apterygidae
+----feature: small
+------genus: 67  species: 233  examples: Eagle, Hawk, Kites
+--order: Struthioniformes
+--feature: flightless, omnivore, three-toed
+----family: Apterygidae
+----feature: small
+------genus: 1  species: 5  examples: Kiwi
+----family: Dromaiidae
+----feature: tail-less
+------genus: 1  species: 1  examples: Emu
+----family: Struthionidae
+----feature: large
+------genus: 1  species: 2  examples: Ostrich
+--order: passeriformes
+--feature: 
+----family: turdidae
+----feature: omnivore
+------genus: 21  species: 171  examples: blue bird
+class: chondrichthyes
+feature: 
+--order: carcharhiniformes
+--feature: 
+----family: sphyrnidae
+----feature: dorsal fin, gills, carnivore
+------genus: 2  species: 9  examples: hammerhead shark
+
+
+1) Add data
+2) Display data
+3) Remove class
+4) Load XML
+5) Write XML
+6) Find feature
+7) Calculate species
+0) Quit
+Choice:> [34;1m5[0m
+ file name:> [34;1mtier3_Out.xml[0m
+ 
+1) Add data
+2) Display data
+3) Remove class
+4) Load XML
+5) Write XML
+6) Find feature
+7) Calculate species
+0) Quit
+Choice:> [34;1m3[0m
+ what class:> [34;1mChondrichthyes[0m
+ removed chondrichthyes
+1) Add data
+2) Display data
+3) Remove class
+4) Load XML
+5) Write XML
+6) Find feature
+7) Calculate species
+0) Quit
+Choice:> [34;1m3[0m
+ what class:> [34;1maves[0m
+ removed aves
+1) Add data
+2) Display data
+3) Remove class
+4) Load XML
+5) Write XML
+6) Find feature
+7) Calculate species
+0) Quit
+Choice:> [34;1m4[0m
+ file name:> [34;1mtier3_Out.xml[0m
+ 
+1) Add data
+2) Display data
+3) Remove class
+4) Load XML
+5) Write XML
+6) Find feature
+7) Calculate species
+0) Quit
+Choice:> [34;1m2[0m
+ class: aves
+feature: feathers, beak
+--order: galliforme
+--feature: chicken-like, ground feeder
+----family: phasianidae
+----feature: terrestrial
+------genus: 12  species: 151  examples: Turkeys, Chickens, Quails, pheasant
+--order: Falconiformes
+--feature: diurnal, carnivore
+----family: Apterygidae
+----feature: small
+------genus: 67  species: 233  examples: Eagle, Hawk, Kites
+--order: Struthioniformes
+--feature: flightless, omnivore, three-toed
+----family: Apterygidae
+----feature: small
+------genus: 1  species: 5  examples: Kiwi
+----family: Dromaiidae
+----feature: tail-less
+------genus: 1  species: 1  examples: Emu
+----family: Struthionidae
+----feature: large
+------genus: 1  species: 2  examples: Ostrich
+--order: passeriformes
+--feature: 
+----family: turdidae
+----feature: omnivore
+------genus: 21  species: 171  examples: blue bird
+class: chondrichthyes
+feature: 
+--order: carcharhiniformes
+--feature: 
+----family: sphyrnidae
+----feature: dorsal fin, gills, carnivore
+------genus: 2  species: 9  examples: hammerhead shark
+
+
+1) Add data
+2) Display data
+3) Remove class
+4) Load XML
+5) Write XML
+6) Find feature
+7) Calculate species
+0) Quit
+Choice:> [34;1m1[0m
+ what class:> [34;1mChondrichthyes[0m
+ what order:> [34;1mCarcharhiniformes[0m
+what family:> [34;1mSphyrnidae[0m
+add feature (y/n):> [34;1mn[0m
+ add summary (y/n):> [34;1my[0m
+ update genus count (2):> [34;1m2[0m
+ update species count (9):> [34;1m9[0m
+ add example (y/n):> [34;1my[0m
+ what example:> [34;1mbonnethead shark[0m
+ add example (y/n):> [34;1mn[0m
+ 
+1) Add data
+2) Display data
+3) Remove class
+4) Load XML
+5) Write XML
+6) Find feature
+7) Calculate species
+0) Quit
+Choice:> [34;1m2[0m
+ class: aves
+feature: feathers, beak
+--order: galliforme
+--feature: chicken-like, ground feeder
+----family: phasianidae
+----feature: terrestrial
+------genus: 12  species: 151  examples: Turkeys, Chickens, Quails, pheasant
+--order: Falconiformes
+--feature: diurnal, carnivore
+----family: Apterygidae
+----feature: small
+------genus: 67  species: 233  examples: Eagle, Hawk, Kites
+--order: Struthioniformes
+--feature: flightless, omnivore, three-toed
+----family: Apterygidae
+----feature: small
+------genus: 1  species: 5  examples: Kiwi
+----family: Dromaiidae
+----feature: tail-less
+------genus: 1  species: 1  examples: Emu
+----family: Struthionidae
+----feature: large
+------genus: 1  species: 2  examples: Ostrich
+--order: passeriformes
+--feature: 
+----family: turdidae
+----feature: omnivore
+------genus: 21  species: 171  examples: blue bird
+class: chondrichthyes
+feature: 
+--order: carcharhiniformes
+--feature: 
+----family: sphyrnidae
+----feature: dorsal fin, gills, carnivore
+------genus: 2  species: 9  examples: hammerhead shark, bonnethead shark
+
+
+1) Add data
+2) Display data
+3) Remove class
+4) Load XML
+5) Write XML
+6) Find feature
+7) Calculate species
+0) Quit
+Choice:> [34;1m0[0m
+ 

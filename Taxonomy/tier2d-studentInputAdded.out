@@ -1,0 +1,116 @@
+
+1) Add data
+2) Display data
+3) Remove class
+4) Load XML
+5) Write XML
+6) Find feature
+7) Calculate species
+0) Quit
+Choice:> [34;1m4[0m
+ file name:> [34;1maves.xml[0m
+ 
+1) Add data
+2) Display data
+3) Remove class
+4) Load XML
+5) Write XML
+6) Find feature
+7) Calculate species
+0) Quit
+Choice:> [34;1m2[0m
+ class: aves
+feature: feathers, beak
+--order: galliforme
+--feature: chicken-like, ground feeder
+----family: phasianidae
+----feature: terrestrial
+------genus: 12  species: 150  examples: Turkeys, Chickens, Quails
+--order: Falconiformes
+--feature: diurnal, carnivore
+----family: Apterygidae
+----feature: small
+------genus: 67  species: 233  examples: Eagle, Hawk, Kites
+--order: Struthioniformes
+--feature: flightless, omnivore, three-toed
+----family: Apterygidae
+----feature: small
+------genus: 1  species: 5  examples: Kiwi
+----family: Dromaiidae
+----feature: tail-less
+------genus: 1  species: 1  examples: Emu
+----family: Struthionidae
+----feature: large
+------genus: 1  species: 2  examples: Ostrich
+
+
+1) Add data
+2) Display data
+3) Remove class
+4) Load XML
+5) Write XML
+6) Find feature
+7) Calculate species
+0) Quit
+Choice:> [34;1m4[0m
+ file name:> [34;1mmammal.xml[0m
+ 
+1) Add data
+2) Display data
+3) Remove class
+4) Load XML
+5) Write XML
+6) Find feature
+7) Calculate species
+0) Quit
+Choice:> [34;1m2[0m
+ class: aves
+feature: feathers, beak
+--order: galliforme
+--feature: chicken-like, ground feeder
+----family: phasianidae
+----feature: terrestrial
+------genus: 12  species: 150  examples: Turkeys, Chickens, Quails
+--order: Falconiformes
+--feature: diurnal, carnivore
+----family: Apterygidae
+----feature: small
+------genus: 67  species: 233  examples: Eagle, Hawk, Kites
+--order: Struthioniformes
+--feature: flightless, omnivore, three-toed
+----family: Apterygidae
+----feature: small
+------genus: 1  species: 5  examples: Kiwi
+----family: Dromaiidae
+----feature: tail-less
+------genus: 1  species: 1  examples: Emu
+----family: Struthionidae
+----feature: large
+------genus: 1  species: 2  examples: Ostrich
+class: mammalia
+feature: fur
+--order: Carnivora
+--feature: carnivore
+----family: Canidae
+----feature: Fangs, Tail
+------genus: 12  species: 37  examples: Dog, Wolf, Coyote
+----family: felidae
+----feature: Fangs, retractable claws, Tail
+------genus: 18  species: 36  examples: Lion, tiger, domestic cat
+--order: Cetacea
+--feature: aquatic
+----family: Delphinidae
+----feature: echolocation, beak
+------genus: 17  species: 32  examples: dolphins, porpoises, and whales
+
+
+1) Add data
+2) Display data
+3) Remove class
+4) Load XML
+5) Write XML
+6) Find feature
+7) Calculate species
+0) Quit
+Choice:> [34;1m0[0m
+ 

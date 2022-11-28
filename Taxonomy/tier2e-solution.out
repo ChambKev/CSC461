@@ -1,0 +1,86 @@
+
+1) Add data
+2) Display data
+3) Remove class
+4) Load XML
+5) Write XML
+6) Find feature
+7) Calculate species
+0) Quit
+Choice:> 
+
+
+1) Add data
+2) Display data
+3) Remove class
+4) Load XML
+5) Write XML
+6) Find feature
+7) Calculate species
+0) Quit
+Choice:> File name:> Could not open file: doesNotExist.xml (The system cannot find the file specified)
+
+1) Add data
+2) Display data
+3) Remove class
+4) Load XML
+5) Write XML
+6) Find feature
+7) Calculate species
+0) Quit
+Choice:> File name:> Invalid xml file. Needs to be an taxonomy xml file
+
+1) Add data
+2) Display data
+3) Remove class
+4) Load XML
+5) Write XML
+6) Find feature
+7) Calculate species
+0) Quit
+Choice:> File name:> 
+1) Add data
+2) Display data
+3) Remove class
+4) Load XML
+5) Write XML
+6) Find feature
+7) Calculate species
+0) Quit
+Choice:> 
+Class: mammal 
+Feature: Fur
+--Order: Carnivora 
+--Feature: carnivore
+----Family: Canidae 
+----Feature: Fangs, Tail
+------Genus: 12  Species: 0  Examples: Dog, Wolf, Coyote
+----Family: felidae 
+----Feature: 
+------Genus: 0  Species: 0  Examples: 
+--Order: Cetacea 
+--Feature: 
+----Family: Delphinidae 
+----Feature: 
+------Genus: 17  Species: 32  Examples: 
+--Order: Struthioniformes 
+--Feature: 
+
+--Order: Falconiformes 
+--Feature: diurnal, carnivore
+----Family: Apterygidae 
+----Feature: 
+------Genus: 0  Species: 0  Examples: 
+Class: aves 
+Feature: 
+
+
+1) Add data
+2) Display data
+3) Remove class
+4) Load XML
+5) Write XML
+6) Find feature
+7) Calculate species
+0) Quit
+Choice:> 

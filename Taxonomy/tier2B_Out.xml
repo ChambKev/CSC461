@@ -1,0 +1,20 @@
+<taxonomy>
+  <class name="mammalia">
+    <order name="carnivora">
+      <family name="canidae">
+        <feature>tail</feature>
+        <feature>fangs</feature>
+        <feature>fur</feature>
+        <summary species="27" genus="12">dog, wolf, coyote</summary>
+      </family>
+    </order>
+  </class>
+  <class name="aves">
+    <order name="galliforme">
+      <family name="phasianidae">
+        <feature>feathers</feature>
+        <summary species="150" genus="12">chicken</summary>
+      </family>
+    </order>
+  </class>
+</taxonomy>

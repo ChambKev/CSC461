@@ -1,0 +1,35 @@
+<taxonomy>
+  <class count="5000" name="mammal">
+    <feature>Fur</feature>
+    <suborder count="">Fur</suborder>
+    <order name="Carnivora">
+      <feature>carnivore</feature>
+      <family name="Canidae">
+        <feature>Fangs</feature>
+        <feature>Tail</feature>
+        <summary genus="12">Dog, Wolf, Coyote</summary>
+        <species> 37 </species>>
+      </family>
+      <family name="felidae">
+
+      </family>
+    </order>
+    <order name="Cetacea">
+      <family name="Delphinidae">
+        <summary species="32" genus="17"></summary>
+      </family>
+    </order>
+    <order name="Struthioniformes">
+    </order>
+    <order name="Falconiformes">
+      <feature>diurnal</feature>
+      <feature>carnivore</feature>
+      <family name="Apterygidae">
+        <description species="233" genus="67">Eagle, Hawk, Kites</description>
+      </family>
+    </order>
+  </class>
+  <class name="aves">
+  </class>
+  <type type="aves"/>
+</taxonomy>
